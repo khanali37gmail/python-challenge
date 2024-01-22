@@ -1,6 +1,6 @@
 # Python-challenge
 Module 3 challenge 
-In this Repository you have two challenges stored.
+In this Repository I have two challenges stored.
 
 # Data Analysis for Budget and Data Analysis for Election.
 
