@@ -1,5 +1,5 @@
 # python-challenge
-module 3 challenge 
+Module 3 challenge 
 In this Repository you have two challenges stored.
 
 Data Analysis for Budget and Data Analysis for Election.
