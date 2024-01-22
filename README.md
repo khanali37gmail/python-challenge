@@ -11,7 +11,7 @@ Under Py Poll folder
 In this challenge we were given data by file name " election_data.csv"
 The challenge in this file is to read and analyize a csv file which is located in Resources folder.
 
-In the analysis we had to get
+b1 In the analysis we had to get
 
 The total number of votes cast
 
