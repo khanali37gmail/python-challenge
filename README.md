@@ -1,8 +1,8 @@
-# python-challenge
+# Python-challenge
 Module 3 challenge 
 In this Repository you have two challenges stored.
 
-Data Analysis for Budget and Data Analysis for Election.
+# Data Analysis for Budget and Data Analysis for Election.
 
 Under Py Poll folder
 In this challenge we were given data by file name " election_data.csv"
