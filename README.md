@@ -10,9 +10,9 @@ The challenge in this file is to read and analyize a csv file which is located i
 
 In the analysis we had to get
 
-The total number of votes cast
-A complete list of candidates who received votes
-The percentage of votes each candidate won
-The total number of votes each candidate won
-The winner of the election based on popular vote
+The total number of votes cast,
+A complete list of candidates who received votes,
+The percentage of votes each candidate won,
+The total number of votes each candidate won,
+The winner of the election based on popular vote,
 
