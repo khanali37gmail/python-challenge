@@ -1,6 +1,9 @@
 # Python-challenge
 Module 3 challenge 
 In this Repository I have two challenges stored.
+# Code
+The codes has been derived from many soruces but not limited to 
+youtube, stackoverflow, www3schoolcom. phython.com, zoom class at bootcam.
 
 # Data Analysis for Budget and Data Analysis for Election.
 
